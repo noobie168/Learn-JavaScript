@@ -1,0 +1,9 @@
+1. <i class="fas fa-chevron-right btn-icon"> --> Used for '>' SVG
+2. :root{} --> For Defining custom variables
+3. *{} --> For all components
+4. 1rem --> Equivalent to no. of pixels of font size of the root html element
+5. vh --> Viewport Height
+6. position=absolute --> Positioning it inside it's closest parent element that has position=relative.
+7. display:inline-block --> Displays content inline but we can adjust its height and width
+8. border-collapse: collapse --> It treats all the columns of one row as a single entity.
+9. `${this.id}` --> For Dynamic Content rendering in JS.
