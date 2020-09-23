@@ -1,0 +1,5 @@
+1. Mobile First --> It means that developing something considering mobile use and then scaling it for large screen devices using media queries.
+2. We cannot insert background image in HTML, it has to be done using CSS.
+3. Using 'em' and 'rem' units makes the content more responsive.
+4. Links are the inline elements, so they do not change their lines.
+5. Transition --> It is used to attain a state of transition with some delay.
