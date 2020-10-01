@@ -1,0 +1,6 @@
+1. CSS variables can be used using Sass and native variables.
+2. Native custom properties syntax is wierd and can be accessed from JS as it does not need to be compiled.
+3. It is not supported on all browsers except with IE.
+4. Preprocessers like Sass can do much more things than Native Variables.
+5. :root {} --> Any variable defined in root will have a global scope.
+6. calc(var(--grid-gap) * 1px) --> It resolves the number to pixel values.
