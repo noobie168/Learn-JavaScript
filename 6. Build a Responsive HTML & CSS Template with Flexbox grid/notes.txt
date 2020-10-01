@@ -1,0 +1,2 @@
+1. .container {margin: auto} --> Pushes the content into the middle by automatically adjusting the boundary margins.
+2. Span is an inline-element while div is a block level element.
